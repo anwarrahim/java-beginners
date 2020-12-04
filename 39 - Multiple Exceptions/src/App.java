@@ -28,6 +28,7 @@ public class App {
         // Using polymorphism to catch the parent of all exceptions
         try {
             test.run();
+// I am learning github please don't worry
         } catch (Exception e) {
             // TODO Auto-generated catch block
             e.printStackTrace();
